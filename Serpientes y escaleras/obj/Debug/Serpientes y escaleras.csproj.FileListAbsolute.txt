@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\Serpientes y escaleras\Serpientes y escaleras\Serpientes y escaleras\bin\Debug\Serpientes y escaleras.exe.config
+C:\Users\Usuario\Desktop\Serpientes y escaleras\Serpientes y escaleras\Serpientes y escaleras\bin\Debug\Serpientes y escaleras.exe
+C:\Users\Usuario\Desktop\Serpientes y escaleras\Serpientes y escaleras\Serpientes y escaleras\bin\Debug\Serpientes y escaleras.pdb
+C:\Users\Usuario\Desktop\Serpientes y escaleras\Serpientes y escaleras\Serpientes y escaleras\obj\Debug\Serpientes y escaleras.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Serpientes y escaleras\Serpientes y escaleras\Serpientes y escaleras\obj\Debug\Serpientes_y_escaleras.Form1.resources
+C:\Users\Usuario\Desktop\Serpientes y escaleras\Serpientes y escaleras\Serpientes y escaleras\obj\Debug\Serpientes_y_escaleras.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Serpientes y escaleras\Serpientes y escaleras\Serpientes y escaleras\obj\Debug\Serpientes y escaleras.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Serpientes y escaleras\Serpientes y escaleras\Serpientes y escaleras\obj\Debug\Serpientes y escaleras.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Serpientes y escaleras\Serpientes y escaleras\Serpientes y escaleras\obj\Debug\Serpientes y escaleras.exe
+C:\Users\Usuario\Desktop\Serpientes y escaleras\Serpientes y escaleras\Serpientes y escaleras\obj\Debug\Serpientes y escaleras.pdb
